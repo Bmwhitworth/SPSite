@@ -39,7 +39,7 @@ nav {
   *zoom: 1;
 }
 .papertabs li {
-  float: left;
+  float:left;
 }
 .papertabs a {
   color: inherit;
