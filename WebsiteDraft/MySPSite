@@ -55,6 +55,43 @@
           </li>
         </ul>
       </section>
+<h1>Google I/O Tabbed Nav</h1>
+  <nav>
+    <ul class="papertabs">
+      <li>
+        <a href="#" class="active">
+          Item 1
+          <span class="paperripple">
+            <span class="circle"</span>
+          </span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          Item 2
+          <span class="paperripple">
+            <span class="circle"</span>
+          </span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          Item 3
+          <span class="paperripple">
+            <span class="circle"</span>
+          </span>
+        </a>
+      </li>
+        <li>
+        <a href="#">
+          Longer Item
+          <span class="paperripple">
+            <span class="circle"</span>
+          </span>
+        </a>
+      </li>
+    </ul>
+  </nav>
       <footer>
         <a href="http://twitter.com/bmwhitworthme"><IMG src="img/twitter-wrap.png" alt="twitter logo"></a>
         <a href="http://facebook.com/Moderncola"><IMG src="img/facebook-wrap.png" alt="facebook logo"></a>
